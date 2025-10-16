@@ -1,0 +1,1 @@
+ E:\SoundToolProject\Python\sound-tool-2\sound_tool_env\Scripts\pyrcc5.exe resources.qrc -o resources.py

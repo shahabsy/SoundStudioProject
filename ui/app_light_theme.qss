@@ -1,0 +1,33 @@
+QMainwindow {
+    background-color: #5bbbbb
+}
+QWidget {
+    background-color: #f5f5f5;
+    color: #222222;
+    font-family: "Segoe UI"
+    font-size: 10pt;
+}
+
+QpushButton {
+    background-color: #dddddd;
+    color: #000;
+    border: 1px solid #aaa;
+    padding: 6px;
+    border-radius: 4px;
+}
+
+QpushButton:hover {
+    background-color: #cccccc;
+}
+
+QListView {
+    background-color: #ffffff;
+    border: 1px solid #bbb;
+    padding: 5px;
+}
+
+QScrollBar:vertical {
+    background: #333;
+    width: 10px;
+    margin: 0px;
+}
